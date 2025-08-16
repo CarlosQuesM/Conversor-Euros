@@ -1,0 +1,45 @@
+
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px;
+    background-color: #c7e1cb;
+}
+#moneda {
+    width: 200px;         
+    padding: 10px;        
+    background-color: #f7fafa; 
+    border: 2px solid #1d1b1b;     
+    border-radius: 5px;         
+    font-size: 16px;      
+  }
+  
+  #eur {
+    width: 200px;         
+    padding: 10px;        
+    background-color: #f0f0f0;  
+    border: 2px solid #1d1b1b;     
+    border-radius: 5px;         
+    font-size: 16px;      
+    color: #333;          
+  }
+  
+
+input {
+    margin-right: 4px;
+}
+
+
+button {
+    margin-top:  20px; 
+    padding: 15px 25px;
+    background-color: #cbd6a7;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    border: 2px solid #1d1b1b;
+}
+
+
+button:hover {
+    background-color: #5bc725;
+}
